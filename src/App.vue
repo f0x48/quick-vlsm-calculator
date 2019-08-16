@@ -10,7 +10,9 @@ export default {
     <user-input/>
     <result-e/>
     <footer>
-     <p> Made by <a href="https://github.com/fhadiel" target="_blank">Fhadiel</a> </p>
+     <p> Made by <a href="https://github.com/fhadiel" target="_blank">Fhadiel</a>, 
+     <a href="https://github.com/fhadiel/quick-vlsm-calculator" target="_blank">Source Code</a>
+     </p>
     </footer>
   </div>
 </template>
@@ -68,6 +70,9 @@ export default {
   }
   input{
     background-color:#EFF1F0;
+  }
+  a {
+    color:white;
   }
   .boxy {
     box-shadow: 12px 17px 0 rgba(0, 0, 0, 0.6);
