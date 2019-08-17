@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e5e9d95003868ffd52f1ec2a9b140011.js"
+  "precache-manifest.6a60b4c6006270902ec1383aa4e8a1e8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vlsmcalc"});
