@@ -16,16 +16,8 @@ self.__precacheManifest = [
     "url": "js/app.285ce311.js"
   },
   {
-    "revision": "d6f77615b975a36378c592bff1f914ea",
+    "revision": "a4c72138b95f13d2dbcc500d0b1488fe",
     "url": "index.html"
-  },
-  {
-    "revision": "867a2bd395d12bc1b308b2d537f23a6d",
-    "url": "icons/vlsm-calcx512.png"
-  },
-  {
-    "revision": "fd805f77118189ddd5775cad8a71c6fa",
-    "url": "icons/vlsm-calcx192.png"
   },
   {
     "revision": "66f97f70caaf2236def7",

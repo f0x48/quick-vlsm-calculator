@@ -3,18 +3,18 @@
   "short_name": "vlsmcalc",
   "icons": [
     {
-      "src": "./icons/vlsm-calcx192.png",
+      "src": "./img/icons/vlsmcalc-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icons/vlsm-calcx512.png",
+      "src": "./icons/vlsmcalc-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "background_color": "#7EA16B",
+  "theme_color": "#7EA16B"
 }
